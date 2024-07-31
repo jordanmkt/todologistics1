@@ -95,7 +95,10 @@ HEADER
 	.custom-margin {
 	margin-top: 100px;
 	}
-
+	.video-container {
+	margin-top: 80px;
+	
+	}
 	body.down header.clone {
 	top: 0;
 	left: 0;
@@ -4570,3 +4573,4 @@ background: url(../img/loader.gif) center no-repeat #fff;
 	}	
 	
 }
+  
