@@ -2519,6 +2519,7 @@ p.lead {
 font-size: 16px;
 font-weight: 500;
 margin-bottom: 30px;
+
 }
 
 strong {
@@ -3186,13 +3187,14 @@ background: url('../img/bg/bg_service_details_1.jpg');
 }
 
 #service-details-2.side-bg .background-image {
-background: url('../img/bg/bg_service_details_2.jpg');
+background: url('../img/ecom.png');
 }
+
 
 #service-details-3.side-bg .background-image {
 background: url('../img/bg/bg_service_details_3.jpg');
 }
-
+	
 #section-intro {
 background: url('../img/BANNER.jpg') #303a43; background-size:cover;
 }
@@ -3200,7 +3202,13 @@ background: url('../img/BANNER.jpg') #303a43; background-size:cover;
 #section-intro-2{
 background: url('../img/bg/bg_3.jpg') #303a43; background-size:cover;
 }
-
+.contactimg {
+padding-top: 50px;
+width: 100%;
+height: auto;
+max-width: 1000px;
+border-radius: 10px;
+}
 .sub-intro-text{
 font-family:Montserrat;
 font-size:18px;
